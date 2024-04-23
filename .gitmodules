@@ -5,3 +5,6 @@
 [submodule "CptNonPar"]
 	path = CptNonPar
 	url = https://github.com/euanmcgonigle/cptnonpar
+[submodule "TrendLSW"]
+	path = TrendLSW
+	url = https://github.com/euanmcgonigle/trendlsw
